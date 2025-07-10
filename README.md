@@ -1,3 +1,6 @@
+![App Screenshot](docs/screenshot.png)
+
+
 # Virtual Theremin - Hand Gesture Recognition
 
 An interactive web application that transforms hand gestures into musical notes, mimicking the classic theremin instrument. Control pitch and volume with your hand movements in real-time.
