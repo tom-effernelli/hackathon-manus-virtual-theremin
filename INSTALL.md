@@ -38,13 +38,13 @@ npm install -g pnpm
 
 
 
-Once Node.js and pnpm are installed, navigate into the extracted project directory (`virtual-drum-app`) in your terminal and install the project dependencies.
+Once Node.js and pnpm are installed, navigate into the extracted project directory (`hackathon-manus-virtual-theremine`) in your terminal and install the project dependencies.
 
 
 
 ```bash
 
-cd virtual-drum-app
+cd hackathon-manus-virtual-theremine
 
 pnpm install
 
