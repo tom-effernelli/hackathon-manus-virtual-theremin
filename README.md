@@ -5,6 +5,8 @@
 
 An interactive web application that transforms hand gestures into musical notes, mimicking the classic theremin instrument. Control pitch and volume with your hand movements in real-time.
 
+[Tryy it here](https://hackathon-manus-virtual-theremin.vercel.app/)
+
 ## Features
 
 - **Real-time Hand Tracking:** Utilizes MediaPipe Hand Landmarker for precise hand detection.
